@@ -1,19 +1,35 @@
 from playwright.sync_api import sync_playwright, Playwright
 
-def main():
-    with sync_playwright() as p:
-        browser = p.chromium.launch()
-        page = browser.new_page()
-
-        page.goto("https://wallawalla.smartcatalogiq.com/en/current/undergraduate-bulletin/courses/")
-
-        elements = page.query_selector_all('.sc-child-item-links li a')
-
-        for element in elements:
-            print(element.inner_text())
+class ClassNode():
+    def __init__(self, name : str):
+        self.name = name
+    
+    def __repr__(self):
+        return self.name
 
 
-        browser.close()
+class PrereqGraph():
+    def __init__(self, classes : list):
+        self.classes = classes
 
-if __name__ == "__main__":
-    main()
+    def add_class(self, class_name):
+        self.classes.append(ClassNode(class_name))
+
+dicionary = {
+    "Course Name" : {
+        "Prereqs" : [
+            1,
+            2
+        ],
+        "Children" : [
+            1,
+            2
+        ]
+    }
+}
+
+classNames = []
+
+classes = [ClassNode(i) for i in classNames]
+
+wallawalla = PrereqGraph(classes)

@@ -1,0 +1,17 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+from main import *
+import pydot
+from networkx.drawing.nx_pydot import graphviz_layout
+
+graph = nx.DiGraph()
+
+dictionary = prereq_dict()
+
+for key in dictionary:
+    if dictionary[key]:
+        for prereq in dictionary[key]:
+            graph.add_edge(key, prereq)
+
+nx.draw(graph, with_labels=True, node_size=700, font_size=6)
+plt.show()
