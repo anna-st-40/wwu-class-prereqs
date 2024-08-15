@@ -1,0 +1,2380 @@
+{
+    "ACCT 201": null,
+    "ACCT 202": [
+        "ACCT 201"
+    ],
+    "ACCT 203": [
+        "ACCT 201"
+    ],
+    "ACCT 235": null,
+    "ACCT 321": [
+        "ACCT 202"
+    ],
+    "ACCT 322": [
+        "ACCT 202"
+    ],
+    "ACCT 323": [
+        "ACCT 202"
+    ],
+    "ACCT 331": [
+        "ACCT 203"
+    ],
+    "ACCT 335": null,
+    "ACCT 341": [
+        "ACCT 201",
+        "CIS 140"
+    ],
+    "ACCT 350": [
+        "ACCT 202"
+    ],
+    "ACCT 421": [
+        "ACCT 322"
+    ],
+    "ACCT 430": [
+        "ACCT 323"
+    ],
+    "ACCT 435": [
+        "ACCT 335"
+    ],
+    "ACCT 490": null,
+    "ANTH 225": null,
+    "ART 160": null,
+    "ART 181": null,
+    "ART 182": [
+        "ART 181"
+    ],
+    "ART 183": [
+        "ART 182"
+    ],
+    "ART 194": [
+        "ART 181"
+    ],
+    "ART 195": [
+        "ART 181",
+        "GRPH 136"
+    ],
+    "ART 196": [
+        "ART 181"
+    ],
+    "ART 251": null,
+    "ART 260": [
+        "ART 160"
+    ],
+    "ART 264": null,
+    "ART 284": null,
+    "ART 285": [
+        "ART 284"
+    ],
+    "ART 286": [
+        "ART 285"
+    ],
+    "ART 294": null,
+    "ART 307": [
+        "ART 183"
+    ],
+    "ART 312": null,
+    "ART 317": [
+        "ART 294"
+    ],
+    "ART 324": null,
+    "ART 325": null,
+    "ART 326": null,
+    "ART 334": [
+        "ART 194",
+        "ART 307"
+    ],
+    "ART 335": [
+        "ART 194"
+    ],
+    "ART 360": [
+        "ART 260"
+    ],
+    "ART 364": [
+        "ART 264"
+    ],
+    "ART 374": [
+        "ART 284",
+        "ART 285",
+        "ART 286"
+    ],
+    "ART 395": null,
+    "ART 494": [],
+    "ART 491": null,
+    "AUTO 114": null,
+    "AUTO 134": [],
+    "AUTO 135": null,
+    "AUTO 145": null,
+    "AUTO 146": null,
+    "AUTO 156": null,
+    "AUTO 157": null,
+    "AUTO 214": [
+        "AUTO 134",
+        "AUTO 135",
+        "AUTO 156",
+        "AUTO 157"
+    ],
+    "AUTO 215": null,
+    "AUTO 280": null,
+    "AUTO 286": [
+        "AUTO 134",
+        "AUTO 135"
+    ],
+    "AUTO 291": null,
+    "AUTO 292": null,
+    "AUTO 293": null,
+    "AUTO 335": [
+        "AUTO 145",
+        "AUTO 146"
+    ],
+    "AUTO 336": null,
+    "AUTO 337": null,
+    "AUTO 338": null,
+    "AUTO 355": null,
+    "AUTO 356": null,
+    "AUTO 357": null,
+    "AUTO 358": null,
+    "AUTO 365": [
+        "AUTO 156",
+        "AUTO 157"
+    ],
+    "AUTO 391": null,
+    "AUTO 392": null,
+    "AUTO 393": null,
+    "AUTO 394": null,
+    "AUTO 395": null,
+    "AUTO 396": null,
+    "AUTO 397": null,
+    "AUTO 414": [
+        "AUTO 214",
+        "AUTO 215"
+    ],
+    "AUTO 434": [
+        "AUTO 414"
+    ],
+    "AUTO 466": [
+        "AUTO 156",
+        "AUTO 335",
+        "AUTO 337",
+        "AUTO 355"
+    ],
+    "AUTO 473": [
+        "AUTO 466"
+    ],
+    "AUTO 480": [],
+    "AUTO 494": [],
+    "AUTO 495": null,
+    "AVIA 110": null,
+    "AVIA 125": null,
+    "AVIA 135": null,
+    "AVIA 140": null,
+    "AVIA 141": null,
+    "AVIA 142": [
+        "AVIA 140",
+        "AVIA 141"
+    ],
+    "AVIA 143": [
+        "AVIA 142"
+    ],
+    "AVIA 144": [
+        "AVIA 143"
+    ],
+    "AVIA 225": null,
+    "AVIA 234": null,
+    "AVIA 256": null,
+    "AVIA 261": [
+        "AVIA 143"
+    ],
+    "AVIA 262": [
+        "AVIA 143"
+    ],
+    "AVIA 263": [
+        "AVIA 262",
+        "AVIA 261"
+    ],
+    "AVIA 264": [
+        "AVIA 143"
+    ],
+    "AVIA 270": [
+        "AVIA 262"
+    ],
+    "AVIA 280": null,
+    "AVIA 325": [
+        "AVIA 264"
+    ],
+    "AVIA 334": [
+        "AVIA 143"
+    ],
+    "AVIA 335": [
+        "AVIA 143"
+    ],
+    "AVIA 336": [
+        "AVIA 335",
+        "AVIA 334"
+    ],
+    "AVIA 337": [
+        "AVIA 336"
+    ],
+    "AVIA 340": [
+        "AVIA 334",
+        "AVIA 336"
+    ],
+    "AVIA 355": [
+        "AVIA 270"
+    ],
+    "AVIA 356": [
+        "AVIA 336"
+    ],
+    "AVIA 357": [
+        "AVIA 336"
+    ],
+    "AVIA 358": [
+        "AVIA 357"
+    ],
+    "AVIA 450": [
+        "GBUS 361"
+    ],
+    "AVIA 455": [
+        "AVIA 355"
+    ],
+    "AVIA 458": [
+        "AVIA 358"
+    ],
+    "AVIA 460": [
+        "AVIA 358"
+    ],
+    "AVIA 480": [],
+    "AVIA 494": [],
+    "AVIA 496": null,
+    "BIOL 105": null,
+    "BIOL 105l": null,
+    "BIOL 106": null,
+    "BIOL 106l": null,
+    "BIOL 121": null,
+    "BIOL 121l": null,
+    "BIOL 122": [
+        "BIOL 121"
+    ],
+    "BIOL 122l": null,
+    "BIOL 123": [
+        "BIOL 122"
+    ],
+    "BIOL 123l": null,
+    "BIOL 141": null,
+    "BIOL 141l": null,
+    "BIOL 142": [
+        "BIOL 141"
+    ],
+    "BIOL 142l": null,
+    "BIOL 143": [
+        "BIOL 142"
+    ],
+    "BIOL 143l": null,
+    "BIOL 214": [],
+    "BIOL 216": [
+        "BIOL 143"
+    ],
+    "BIOL 222": [
+        "BIOL 141",
+        "BIOL 142",
+        "CHEM 105"
+    ],
+    "BIOL 250": [
+        "BIOL 143",
+        "MATH 121",
+        "MATH 122"
+    ],
+    "BIOL 305": null,
+    "BIOL 314": [],
+    "BIOL 326": [
+        "BIOL 250"
+    ],
+    "BIOL 360": null,
+    "BIOL 381": null,
+    "BIOL 382": [
+        "BIOL 381",
+        "CHEM 321"
+    ],
+    "BIOL 383": [
+        "BIOL 381",
+        "BIOL 382",
+        "CHEM 322"
+    ],
+    "BIOL 403": null,
+    "BIOL 405": null,
+    "BIOL 407": null,
+    "BIOL 410": [],
+    "BIOL 414": [
+        "BIOL 216"
+    ],
+    "BIOL 419": [
+        "BIOL 143"
+    ],
+    "BIOL 421": null,
+    "BIOL 422": null,
+    "BIOL 426": null,
+    "BIOL 430": [
+        "BIOL 382",
+        "CHEM 322",
+        "CHEM 325"
+    ],
+    "BIOL 435": [
+        "BIOL 381",
+        "BIOL 382",
+        "CHEM 322"
+    ],
+    "BIOL 440": null,
+    "BIOL 445": [
+        "BIOL 143",
+        "CHEM 143"
+    ],
+    "BIOL 449": null,
+    "BIOL 450": null,
+    "BIOL 464": [
+        "BIOL 381"
+    ],
+    "BIOL 465": [
+        "BIOL 143"
+    ],
+    "BIOL 466": [
+        "BIOL 382"
+    ],
+    "BIOL 470": [
+        "BIOL 143",
+        "PHYS 213",
+        "PHYS 253",
+        "MATH 171"
+    ],
+    "BIOL 471": [
+        "BIOL 250"
+    ],
+    "BIOL 483": null,
+    "BIOL 486": [
+        "BIOL 381"
+    ],
+    "BIOL 495": null,
+    "BIOL 496": [
+        "BIOL 250"
+    ],
+    "BIOL 417": [],
+    "BIOL 458": null,
+    "BIOL 460": null,
+    "BIOL 462": null,
+    "BIOL 463": null,
+    "BIOL 468": [
+        "BIOL 381"
+    ],
+    "BIOL 475": null,
+    "CDEV 100": null,
+    "CDEV 101": null,
+    "CDEV 210": null,
+    "CHEM 105": null,
+    "CHEM 141": [
+        "MATH 121",
+        "MATH 122"
+    ],
+    "CHEM 142": [
+        "CHEM 141",
+        "MATH 121",
+        "MATH 122"
+    ],
+    "CHEM 143": [
+        "CHEM 142",
+        "MATH 121",
+        "MATH 122"
+    ],
+    "CHEM 144": null,
+    "CHEM 145": null,
+    "CHEM 146": null,
+    "CHEM 301": [
+        "CHEM 143"
+    ],
+    "CHEM 303": [
+        "CHEM 301",
+        "CHEM 305"
+    ],
+    "CHEM 305": [
+        "CHEM 143",
+        "CHEM 146"
+    ],
+    "CHEM 321": [
+        "CHEM 143"
+    ],
+    "CHEM 322": [
+        "CHEM 143"
+    ],
+    "CHEM 324": null,
+    "CHEM 325": null,
+    "CHEM 350": [
+        "MATH 172",
+        "PHYS 213",
+        "PHYS 253",
+        "CHEM 143"
+    ],
+    "CHEM 352": [
+        "MATH 172",
+        "PHYS 213",
+        "PHYS 253",
+        "CHEM 143"
+    ],
+    "CHEM 353": [
+        "CHEM 352"
+    ],
+    "CHEM 383": [
+        "CHEM 322"
+    ],
+    "CHEM 386": null,
+    "CHEM 405": [
+        "CHEM 322"
+    ],
+    "CHEM 427": [
+        "CHEM 383",
+        "CHEM 386"
+    ],
+    "CHEM 429": [
+        "CHEM 322"
+    ],
+    "CHEM 431": [
+        "CHEM 322"
+    ],
+    "CHEM 432": [
+        "CHEM 322"
+    ],
+    "CHEM 433": [
+        "CHEM 322"
+    ],
+    "CHEM 442": [
+        "CHEM 143",
+        "CHEM 350"
+    ],
+    "CHEM 479": null,
+    "CHEM 496": [
+        "CHEM 301",
+        "CHEM 322"
+    ],
+    "CHEM 497": [
+        "CHEM 496"
+    ],
+    "CIS 140": [],
+    "CIS 210": null,
+    "CIS 211": null,
+    "CIS 240": [
+        "CIS 140"
+    ],
+    "CIS 301": [
+        "CIS 140"
+    ],
+    "CIS 440": [
+        "CPTR 141",
+        "MATH 250"
+    ],
+    "CIS 490": null,
+    "COMM 145": null,
+    "COMM 148": null,
+    "COMM 245": [
+        "FLTV 135"
+    ],
+    "COMM 260": null,
+    "COMM 325": null,
+    "COMM 357": null,
+    "COMM 394": null,
+    "COMM 444": null,
+    "COMM 445": [],
+    "COMM 460": null,
+    "COMM 475": null,
+    "COMM 480": null,
+    "COMM 487": null,
+    "COMM 490": [],
+    "COMM 495": null,
+    "COMM 496": [
+        "COMM 475"
+    ],
+    "COMM 497": [
+        "COMM 496"
+    ],
+    "CORR 285": null,
+    "CORR 385": [
+        "SOCI 204",
+        "CORR 285"
+    ],
+    "CORR 387": [
+        "SOCI 204",
+        "CORR 285"
+    ],
+    "CPTR 108": [
+        "CPTR 141"
+    ],
+    "CPTR 130": null,
+    "CPTR 141": null,
+    "CPTR 142": [
+        "CPTR 141"
+    ],
+    "CPTR 210": [
+        "CPTR 141"
+    ],
+    "CPTR 211": [
+        "CPTR 142"
+    ],
+    "CPTR 235": [
+        "CPTR 142"
+    ],
+    "CPTR 230": null,
+    "CPTR 301": [
+        "CPTR 142"
+    ],
+    "CPTR 242": [
+        "CPTR 142"
+    ],
+    "CPTR 245": null,
+    "CPTR 280": [
+        "CPTR 141"
+    ],
+    "CPTR 308": null,
+    "CPTR 320": [
+        "CPTR 220"
+    ],
+    "CPTR 330": [
+        "CPTR 142",
+        "MATH 215",
+        "MATH 315"
+    ],
+    "CPTR 352": [
+        "CPTR 242",
+        "CPTR 280"
+    ],
+    "CPTR 354": [
+        "CPTR 242"
+    ],
+    "CPTR 355": [
+        "CPTR 141"
+    ],
+    "CPTR 380": [
+        "CPTR 280",
+        "ENGR 354"
+    ],
+    "CPTR 396": [
+        "CPTR 242"
+    ],
+    "CPTR 405": [],
+    "CPTR 420": [
+        "CPTR 142"
+    ],
+    "CPTR 430": [
+        "CPTR 242"
+    ],
+    "CPTR 440": [],
+    "CPTR 450": [
+        "CPTR 242"
+    ],
+    "CPTR 454": [
+        "CPTR 242",
+        "MATH 250"
+    ],
+    "CPTR 456": [
+        "CPTR 242"
+    ],
+    "CPTR 480": [
+        "CPTR 280"
+    ],
+    "CPTR 490": [
+        "CPTR 242"
+    ],
+    "CPTR 493": [],
+    "CPTR 496": null,
+    "CPTR 497": [
+        "CPTR 496"
+    ],
+    "CPTR 498": [
+        "CPTR 497"
+    ],
+    "CYBS 122": null,
+    "CYBS 223": null,
+    "CYBS 224": [
+        "CYBS 122"
+    ],
+    "CYBS 325": [
+        "CYBS 122",
+        "CYBS 224"
+    ],
+    "CYBS 326": null,
+    "CYBS 497": [
+        "CYBS 326"
+    ],
+    "DRMA 101": null,
+    "DRMA 211": null,
+    "DRMA 242": null,
+    "DRMA 260": [],
+    "DRMA 336": null,
+    "DRMA 363": null,
+    "DRMA 364": [
+        "DRMA 242",
+        "FLTV 135"
+    ],
+    "DRMA 365": [
+        "DRMA 364"
+    ],
+    "DRMA 394": null,
+    "DRMA 442": [
+        "DRMA 242"
+    ],
+    "DRMA 445": [
+        "DRMA 336",
+        "FLTV 202"
+    ],
+    "DRMA 460": [],
+    "DRMA 252": null,
+    "DRMA 253": null,
+    "DRMA 452": [
+        "DRMA 252"
+    ],
+    "DRMA 453": [
+        "DRMA 253",
+        "DRMA 365"
+    ],
+    "DSGN 110": null,
+    "DSGN 111": [
+        "DSGN 110"
+    ],
+    "DSGN 121": null,
+    "DSGN 215": [
+        "DSGN 110"
+    ],
+    "DSGN 226": null,
+    "DSGN 312": [
+        "DSGN 215"
+    ],
+    "DSGN 370": [
+        "GRPH 262"
+    ],
+    "ECON 210": null,
+    "ECON 211": null,
+    "ECON 220": null,
+    "ECON 359": [],
+    "ECON 441": [
+        "ECON 211",
+        "FINA 351"
+    ],
+    "ECON 488": [
+        "ECON 211"
+    ],
+    "EDUC 211": null,
+    "EDUC 250": [
+        "EDUC 211"
+    ],
+    "EDUC 350": [
+        "PSYC 217"
+    ],
+    "EDUC 360": [
+        "EDUC 250",
+        "EDUC 350",
+        "ENGL 374",
+        "EDUC 390"
+    ],
+    "EDUC 361": [
+        "EDUC 360"
+    ],
+    "EDUC 365": [
+        "EDUC 250",
+        "EDUC 390"
+    ],
+    "EDUC 373": [
+        "EDUC 250",
+        "EDUC 390"
+    ],
+    "EDUC 381": [],
+    "EDUC 382": [
+        "EDUC 250",
+        "EDUC 390"
+    ],
+    "EDUC 383": [
+        "EDUC 250",
+        "EDUC 373"
+    ],
+    "EDUC 386": null,
+    "EDUC 390": null,
+    "EDUC 395": [
+        "EDUC 250",
+        "EDUC 365"
+    ],
+    "EDUC 396": [
+        "EDUC 250"
+    ],
+    "EDUC 405": [
+        "EDUC 250"
+    ],
+    "EDUC 410": null,
+    "EDUC 425": null,
+    "EDUC 444": [
+        "EDUC 211",
+        "EDUC 250",
+        "EDUC 390"
+    ],
+    "EDUC 450": [
+        "EDUC 250"
+    ],
+    "EDUC 451": [
+        "EDUC 450"
+    ],
+    "EDUC 452": [
+        "EDUC 451"
+    ],
+    "EDUC 453": [
+        "EDUC 452"
+    ],
+    "EDUC 454": [
+        "EDUC 452"
+    ],
+    "EDUC 460": [
+        "EDUC 360",
+        "EDUC 361",
+        "EDUC 373",
+        "EDUC 382",
+        "EDUC 383",
+        "EDUC 405",
+        "EDUC 425",
+        "EDUC 450",
+        "EDUC 495"
+    ],
+    "EDUC 461": [
+        "EDUC 450"
+    ],
+    "EDUC 470": [
+        "EDUC 451",
+        "EDUC 460"
+    ],
+    "EDUC 471": [
+        "EDUC 451",
+        "EDUC 461"
+    ],
+    "EDUC 475": [
+        "EDUC 250",
+        "EDUC 390"
+    ],
+    "EDUC 480": [
+        "EDUC 452",
+        "EDUC 470"
+    ],
+    "EDUC 481": [
+        "EDUC 452",
+        "EDUC 471"
+    ],
+    "EDUC 495": null,
+    "EDUC 496": [],
+    "EDUC 497": [
+        "EDUC 250",
+        "EDCI 590"
+    ],
+    "ENGL 374": null,
+    "ENGL 395": [
+        "ENGL 284",
+        "ENGL 374",
+        "WRIT 389"
+    ],
+    "ENGL 494": [],
+    "ENGL 495": null,
+    "ENGL 121": null,
+    "ENGL 122": [
+        "ENGL 121"
+    ],
+    "ENGL 223": [
+        "ENGL 121",
+        "ENGL 122"
+    ],
+    "ENGL 204": null,
+    "ENGL 210": null,
+    "ENGL 211": null,
+    "ENGL 212": null,
+    "ENGL 214": null,
+    "ENGL 234": [
+        "ENGL 223",
+        "HONR 243"
+    ],
+    "ENGL 274": null,
+    "ENGL 284": [],
+    "ENGL 344": [
+        "ENGL 234"
+    ],
+    "ENGL 345": [
+        "ENGL 234"
+    ],
+    "ENGL 346": [
+        "ENGL 234"
+    ],
+    "ENGL 347": [
+        "ENGL 234"
+    ],
+    "ENGL 355": [
+        "ENGL 234"
+    ],
+    "ENGL 356": [
+        "ENGL 234"
+    ],
+    "ENGL 364": [
+        "ENGL 234"
+    ],
+    "ENGL 366": [
+        "ENGL 234"
+    ],
+    "ENGL 358": null,
+    "ENGL 359": null,
+    "ENGL 360": null,
+    "ENGL 363": null,
+    "ENGL 394": [
+        "ENGL 234"
+    ],
+    "ENGL 454": [
+        "ENGL 234"
+    ],
+    "ENGL 470": null,
+    "ENGL 474": null,
+    "ENGL 496": null,
+    "ENGL 497": null,
+    "ENGL 498": null,
+    "ENGR 120": null,
+    "ENGR 121": null,
+    "ENGR 122": null,
+    "ENGR 123": [
+        "ENGR 121",
+        "ENGR 122"
+    ],
+    "ENGR 197": null,
+    "ENGR 214": null,
+    "ENGR 221": null,
+    "ENGR 222": [
+        "ENGR 221"
+    ],
+    "ENGR 223": [
+        "ENGR 222"
+    ],
+    "ENGR 228": null,
+    "ENGR 295": null,
+    "ENGR 297": [],
+    "ENGR 312": [
+        "MATH 274",
+        "PHYS 253"
+    ],
+    "ENGR 315": null,
+    "ENGR 318": [
+        "ENGR 228"
+    ],
+    "ENGR 321": [
+        "ENGR 222"
+    ],
+    "ENGR 322": [
+        "ENGR 321",
+        "CHEM 142"
+    ],
+    "ENGR 323": [
+        "ENGR 321"
+    ],
+    "ENGR 324": [
+        "ENGR 321",
+        "ENGR 322"
+    ],
+    "ENGR 325": [
+        "MATH 315",
+        "ENGR 228"
+    ],
+    "ENGR 326": [],
+    "ENGR 331": [
+        "ENGR 222",
+        "PHYS 251",
+        "MATH 274",
+        "PHYS 252"
+    ],
+    "ENGR 332": [
+        "CHEM 143",
+        "PHYS 253"
+    ],
+    "ENGR 333": [
+        "ENGR 332"
+    ],
+    "ENGR 341": [
+        "CHEM 143"
+    ],
+    "ENGR 342": [
+        "ENGR 331"
+    ],
+    "ENGR 343": [
+        "CHEM 143"
+    ],
+    "ENGR 344": [
+        "CPTR 141",
+        "ENGR 321",
+        "MATH 315"
+    ],
+    "ENGR 345": [],
+    "ENGR 346": [
+        "ENGR 122"
+    ],
+    "ENGR 347": [
+        "ENGR 321"
+    ],
+    "ENGR 348": [
+        "CPTR 141",
+        "ENGR 321",
+        "ENGR 347",
+        "MATH 239"
+    ],
+    "ENGR 350": [
+        "ENGR 223",
+        "ENGR 228"
+    ],
+    "ENGR 354": null,
+    "ENGR 355": [
+        "CPTR 280",
+        "ENGR 228",
+        "ENGR 354"
+    ],
+    "ENGR 356": null,
+    "ENGR 357": [
+        "ENGR 356"
+    ],
+    "ENGR 364": [
+        "ENGR 331"
+    ],
+    "ENGR 365": [
+        "ENGR 321",
+        "ENGR 322"
+    ],
+    "ENGR 366": [
+        "ENGR 223",
+        "ENGR 350",
+        "MATH 239",
+        "MATH 286"
+    ],
+    "ENGR 374": [],
+    "ENGR 386": [
+        "BIOL 142",
+        "ENGR 223"
+    ],
+    "ENGR 390": [],
+    "ENGR 396": [],
+    "ENGR 397": [
+        "ENGR 396"
+    ],
+    "ENGR 419": [
+        "MATH 274",
+        "MATH 239",
+        "CPTR 141",
+        "PHYS 253"
+    ],
+    "ENGR 430": [
+        "ENGR 228"
+    ],
+    "ENGR 433": [
+        "ENGR 355"
+    ],
+    "ENGR 435": [
+        "ENGR 356",
+        "ENGR 433"
+    ],
+    "ENGR 440": [
+        "ENGR 342"
+    ],
+    "ENGR 441": [
+        "ENGR 323",
+        "ENGR 348"
+    ],
+    "ENGR 442": [
+        "ENGR 323",
+        "ENGR 348"
+    ],
+    "ENGR 443": [
+        "ENGR 323",
+        "ENGR 348"
+    ],
+    "ENGR 444": [
+        "ENGR 441",
+        "ENGR 442"
+    ],
+    "ENGR 445": [
+        "ENGR 331",
+        "ENGR 343"
+    ],
+    "ENGR 446": [
+        "ENGR 445"
+    ],
+    "ENGR 447": [
+        "ENGR 343"
+    ],
+    "ENGR 448": [
+        "ENGR 446"
+    ],
+    "ENGR 449": null,
+    "ENGR 450": [
+        "ENGR 321",
+        "ENGR 341"
+    ],
+    "ENGR 451": [
+        "ENGR 228",
+        "MATH 286",
+        "PHYS 253"
+    ],
+    "ENGR 454": [
+        "ENGR 350",
+        "MATH 239"
+    ],
+    "ENGR 455": [
+        "ENGR 350",
+        "MATH 239",
+        "MATH 286"
+    ],
+    "ENGR 456": [
+        "ENGR 455"
+    ],
+    "ENGR 460": [
+        "ENGR 350",
+        "ENGR 356"
+    ],
+    "ENGR 461": [
+        "ENGR 223",
+        "MATH 239",
+        "MATH 286"
+    ],
+    "ENGR 462": [
+        "ENGR 321",
+        "ENGR 324",
+        "ENGR 365",
+        "ENGR 461",
+        "ENGR 468"
+    ],
+    "ENGR 465": [
+        "MATH 286",
+        "PHYS 252",
+        "ENGR 331",
+        "ENGR 332"
+    ],
+    "ENGR 466": [
+        "ENGR 332"
+    ],
+    "ENGR 467": [
+        "ENGR 223",
+        "ENGR 228"
+    ],
+    "ENGR 468": [
+        "MATH 286",
+        "ENGR 321"
+    ],
+    "ENGR 470": [
+        "ENGR 331",
+        "ENGR 332",
+        "MATH 286"
+    ],
+    "ENGR 471": [
+        "ENGR 321",
+        "MATH 239"
+    ],
+    "ENGR 475": [
+        "ENGR 331",
+        "ENGR 332"
+    ],
+    "ENGR 480": [
+        "ENGR 324",
+        "ENGR 350"
+    ],
+    "ENGR 485": [
+        "CHEM 321",
+        "ENGR 331",
+        "ENGR 332",
+        "ENGR 465"
+    ],
+    "ENGR 486": [
+        "BIOL 381"
+    ],
+    "ENGR 487": [
+        "ENGR 455"
+    ],
+    "ENGR 494": [],
+    "ENGR 495": null,
+    "ENGR 496": [
+        "ENGR 396",
+        "ENGR 397"
+    ],
+    "ENGR 497": [
+        "ENGR 496"
+    ],
+    "ENGR 498": [
+        "ENGR 497"
+    ],
+    "ENGR 499": [
+        "ENGR 496"
+    ],
+    "ENVI 385": null,
+    "FILM 215": null,
+    "FILM 318": [
+        "ENGL 234",
+        "FILM 215"
+    ],
+    "FINA 101": null,
+    "FINA 325": null,
+    "FINA 351": null,
+    "FINA 367": null,
+    "FINA 440": [
+        "ECON 211",
+        "FINA 351"
+    ],
+    "FINA 441": [
+        "ECON 211",
+        "FINA 351"
+    ],
+    "FINA 488": [
+        "ECON 211"
+    ],
+    "FINA 490": null,
+    "FLTV 135": null,
+    "COMM 201": [
+        "FLTV 135"
+    ],
+    "FLTV 202": [
+        "ENGL 122"
+    ],
+    "FLTV 203": [
+        "FLTV 135"
+    ],
+    "FLTV 204": [
+        "FLTV 203"
+    ],
+    "FLTV 222": null,
+    "FLTV 260": null,
+    "FLTV 320": null,
+    "FLTV 333": [
+        "FLTV 135",
+        "FLTV 222"
+    ],
+    "FLTV 410": [
+        "FLTV 135",
+        "GRPH 136"
+    ],
+    "FLTV 412": [
+        "FLTV 135"
+    ],
+    "FLTV 425": null,
+    "FLTV 435": [
+        "FLTV 204"
+    ],
+    "FLTV 460": null,
+    "FLTV 487": null,
+    "FLTV 490": null,
+    "FREN 101": null,
+    "FREN 102": [
+        "FREN 101"
+    ],
+    "FREN 103": [
+        "FREN 102"
+    ],
+    "FREN 201": [
+        "FREN 103"
+    ],
+    "FREN 202": [
+        "FREN 201"
+    ],
+    "GBUS 160": null,
+    "GBUS 190": null,
+    "GBUS 270": [
+        "ENGL 122"
+    ],
+    "GBUS 361": null,
+    "GBUS 362": null,
+    "GBUS 390": [],
+    "GBUS 490": null,
+    "GBUS 495": null,
+    "GDEV 122": null,
+    "GDEV 223": null,
+    "GDEV 324": null,
+    "GDEV 325": [
+        "CPTR 242"
+    ],
+    "GDEV 426": [
+        "GDEV 122",
+        "GDEV 223",
+        "GDEV 324",
+        "GDEV 325"
+    ],
+    "GEOG 252": null,
+    "GNRL 101": null,
+    "GNRL 100": null,
+    "GNRL 401": null,
+    "GNRL 405": null,
+    "GREK 231": [
+        "ENGL 122"
+    ],
+    "GREK 232": [
+        "GREK 231"
+    ],
+    "GREK 331": [
+        "GREK 232"
+    ],
+    "GREK 332": [
+        "GREK 331"
+    ],
+    "GREK 342": [],
+    "GREK 344": null,
+    "GRMN 101": null,
+    "GRMN 102": [
+        "GRMN 101"
+    ],
+    "GRMN 103": [
+        "GRMN 102"
+    ],
+    "GRMN 314": null,
+    "GRPH 124": null,
+    "GRPH 136": null,
+    "GRPH 255": [
+        "GRPH 124"
+    ],
+    "GRPH 262": [
+        "GRPH 124"
+    ],
+    "GRPH 263": [
+        "GRPH 124",
+        "GRPH 136"
+    ],
+    "GRPH 265": [
+        "GRPH 136",
+        "GRPH 255",
+        "GRPH 262"
+    ],
+    "GRPH 272": [
+        "GRPH 262"
+    ],
+    "GRPH 280": null,
+    "GRPH 336": [
+        "GRPH 136",
+        "GRPH 255",
+        "GRPH 262"
+    ],
+    "GRPH 345": [
+        "GRPH 255",
+        "GRPH 262"
+    ],
+    "GRPH 355": [
+        "GRPH 255"
+    ],
+    "GRPH 366": [
+        "GRPH 136",
+        "GRPH 255"
+    ],
+    "GRPH 370": [
+        "GRPH 262"
+    ],
+    "GRPH 445": [
+        "GRPH 255",
+        "GRPH 262"
+    ],
+    "GRPH 463": [
+        "GRPH 263"
+    ],
+    "GRPH 466": [
+        "GRPH 255",
+        "GRPH 262",
+        "GRPH 263"
+    ],
+    "GRPH 480": [],
+    "GRPH 494": [],
+    "GRPH 492": [],
+    "HEBR 331": null,
+    "HEBR 332": [
+        "HEBR 331"
+    ],
+    "HEBR 451": [
+        "HEBR 332"
+    ],
+    "HIST 320": null,
+    "HIST 335": null,
+    "HIST 355": null,
+    "HIST 382": null,
+    "HIST 394": null,
+    "HIST 395": null,
+    "HIST 440": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "HIST 494": [],
+    "HIST 495": null,
+    "HIST 221": null,
+    "HIST 222": null,
+    "HIST 283": null,
+    "HIST 337": null,
+    "HIST 354": null,
+    "HIST 357": null,
+    "HIST 359": null,
+    "HIST 386": [
+        "EDUC 211",
+        "EDUC 250"
+    ],
+    "HIST 436": null,
+    "HIST 445": null,
+    "HIST 448": null,
+    "HIST 449": null,
+    "HIST 450": null,
+    "HIST 391": null,
+    "HIST 496": [
+        "HIST 391"
+    ],
+    "HIST 497": [
+        "HIST 391"
+    ],
+    "HIST 498": [
+        "HIST 391"
+    ],
+    "HIST 121": null,
+    "HIST 122": null,
+    "HIST 240": null,
+    "HIST 242": null,
+    "HIST 254": null,
+    "HIST 257": null,
+    "HIST 305": null,
+    "HIST 414": null,
+    "HIST 415": null,
+    "HIST 274": null,
+    "HIST 275": null,
+    "HIST 306": null,
+    "HIST 307": null,
+    "HIST 360": null,
+    "HIST 437": null,
+    "HIST 434": null,
+    "HIST 463": null,
+    "HIST 474": null,
+    "HLTH 110": null,
+    "HLTH 205": null,
+    "HLTH 210": null,
+    "HLTH 217": null,
+    "HLTH 220": null,
+    "HLTH 315": [
+        "HLTH 110",
+        "HLTH 220",
+        "BIOL 105",
+        "BIOL 121",
+        "BIOL 141"
+    ],
+    "HLTH 328": null,
+    "HLTH 331": null,
+    "HLTH 350": null,
+    "HLTH 370": null,
+    "HLTH 471": [
+        "PSYC 130",
+        "SOCI 204"
+    ],
+    "HLTH 490": [],
+    "HLTH 495": null,
+    "HLTH 496": [],
+    "HMNT 360": [],
+    "HMNT 391": null,
+    "HMNT 490": null,
+    "HMNT 496": [
+        "HMNT 391"
+    ],
+    "HMNT 497": [
+        "HMNT 496"
+    ],
+    "HMNT 498": [
+        "HMNT 497"
+    ],
+    "HONR 131": null,
+    "HONR 132": null,
+    "HONR 133": null,
+    "HONR 141": null,
+    "HONR 243": [
+        "HONR 141"
+    ],
+    "HONR 281": null,
+    "HONR 349": null,
+    "HONR 392": null,
+    "HONR 393": [
+        "ENGL 234"
+    ],
+    "HONR 394": [
+        "HONR 132",
+        "HONR 133",
+        "HONR 243"
+    ],
+    "HONR 479": [],
+    "HONR 496": [],
+    "HONR 497": [],
+    "HONR 498": [],
+    "ILL 244": [],
+    "ILL 245": [
+        "ILL 244"
+    ],
+    "ILL 246": [
+        "ILL 244"
+    ],
+    "ILL 354": [
+        "ILL 244",
+        "ILL 245",
+        "ART 307"
+    ],
+    "JOUR 244": [
+        "ENGL 122"
+    ],
+    "JOUR 245": [
+        "ENGL 122"
+    ],
+    "JOUR 247": null,
+    "JOUR 257": [
+        "PHTO 156"
+    ],
+    "JOUR 341": null,
+    "JOUR 345": [
+        "JOUR 245"
+    ],
+    "JOUR 346": [
+        "JOUR 245"
+    ],
+    "JOUR 394": null,
+    "JOUR 445": null,
+    "LANG 205": null,
+    "LANG 395": null,
+    "LANG 406": null,
+    "LANG 494": [],
+    "LATN 211": null,
+    "LATN 212": [
+        "LATN 211"
+    ],
+    "LATN 213": [
+        "LATN 212"
+    ],
+    "LATN 311": [
+        "LATN 213"
+    ],
+    "LATN 312": [
+        "LATN 311"
+    ],
+    "LATN 313": [
+        "LATN 312"
+    ],
+    "LAW 420": null,
+    "LAW 490": null,
+    "MATH 105": [
+        "MDEV 003"
+    ],
+    "MATH 106": [
+        "MDEV 003"
+    ],
+    "MATH 112": [
+        "MDEV 003"
+    ],
+    "MATH 113": [
+        "MATH 112"
+    ],
+    "MATH 121": [
+        "MDEV 003"
+    ],
+    "MATH 122": [
+        "MATH 121"
+    ],
+    "MATH 171": [
+        "MATH 122"
+    ],
+    "MATH 172": [
+        "MATH 171"
+    ],
+    "MATH 215": [
+        "MATH 121",
+        "MATH 171",
+        "CPTR 141"
+    ],
+    "MATH 239": [
+        "MATH 171"
+    ],
+    "MATH 250": [
+        "MATH 171"
+    ],
+    "MATH 273": [
+        "MATH 172"
+    ],
+    "MATH 274": [
+        "MATH 273"
+    ],
+    "MATH 286": [
+        "MATH 239",
+        "MATH 273"
+    ],
+    "MATH 315": [
+        "MATH 274"
+    ],
+    "MATH 316": [
+        "MATH 315"
+    ],
+    "MATH 319": [
+        "MATH 239",
+        "MATH 274",
+        "CPTR 141",
+        "CPTR 230"
+    ],
+    "MATH 321": [
+        "MATH 273"
+    ],
+    "MATH 341": [
+        "CPTR 141",
+        "CPTR 230",
+        "MATH 239",
+        "MATH 286"
+    ],
+    "MATH 351": [
+        "CPTR 141",
+        "CPTR 230",
+        "MATH 239",
+        "MATH 286"
+    ],
+    "MATH 389": [
+        "MATH 239"
+    ],
+    "MATH 397": null,
+    "MATH 413": [
+        "MATH 239",
+        "MATH 286"
+    ],
+    "MATH 414": [],
+    "MATH 435": null,
+    "MATH 451": [
+        "MATH 250",
+        "MATH 274"
+    ],
+    "MATH 452": [
+        "MATH 451"
+    ],
+    "MATH 461": [
+        "MATH 239",
+        "MATH 250"
+    ],
+    "MATH 462": [
+        "MATH 461"
+    ],
+    "MATH 476": [],
+    "MATH 494": [
+        "MATH 274"
+    ],
+    "MATH 496": [
+        "MATH 397"
+    ],
+    "MATH 497": [
+        "MATH 496"
+    ],
+    "MATH 498": [
+        "MATH 497"
+    ],
+    "MDEV 001": null,
+    "MDEV 003": null,
+    "MEDU 395": null,
+    "MGMT 201": null,
+    "MGMT 366": null,
+    "MGMT 371": null,
+    "MGMT 373": null,
+    "MGMT 375": null,
+    "MGMT 376": null,
+    "MGMT 463": null,
+    "MGMT 470": null,
+    "MGMT 476": null,
+    "MGMT 488": null,
+    "MGMT 489": null,
+    "MGMT 490": null,
+    "MKTG 333": null,
+    "MKTG 375": null,
+    "MKTG 381": null,
+    "MKTG 383": null,
+    "MKTG 384": null,
+    "MKTG 415": null,
+    "MKTG 451": [
+        "MKTG 381"
+    ],
+    "MKTG 470": null,
+    "MKTG 481": null,
+    "MKTG 488": null,
+    "MKTG 490": null,
+    "MUCT 121": null,
+    "MUCT 122": [
+        "MUCT 121"
+    ],
+    "MUCT 123": [
+        "MUCT 122"
+    ],
+    "MUCT 124": null,
+    "MUCT 131": null,
+    "MUCT 132": [
+        "MUCT 131"
+    ],
+    "MUCT 133": [
+        "MUCT 132"
+    ],
+    "MUCT 221": [
+        "MUCT 123",
+        "MUCT 124"
+    ],
+    "MUCT 222": [
+        "MUCT 221"
+    ],
+    "MUCT 223": [],
+    "MUCT 231": [
+        "MUCT 133"
+    ],
+    "MUCT 232": [
+        "MUCT 231"
+    ],
+    "MUCT 233": [
+        "MUCT 124",
+        "MUCT 232"
+    ],
+    "MUCT 425": [
+        "MUCT 223",
+        "MUCT 233"
+    ],
+    "MUED 251": null,
+    "MUED 252": null,
+    "MUED 253": null,
+    "MUED 261": [],
+    "MUED 262": [],
+    "MUED 271": [],
+    "MUED 272": [],
+    "MUED 281": [],
+    "MUED 282": [],
+    "MUED 291": null,
+    "MUED 292": null,
+    "MUED 354": null,
+    "MUED 394": null,
+    "MUED 395": null,
+    "MUED 396": [],
+    "MUHL 124": null,
+    "MUHL 134": null,
+    "MUHL 321": [
+        "MUCT 223",
+        "MUCT 233"
+    ],
+    "MUHL 322": [
+        "MUCT 223"
+    ],
+    "MUHL 323": [
+        "MUCT 221",
+        "MUCT 222",
+        "MUCT 223"
+    ],
+    "MUHL 479": null,
+    "MUPF 215": null,
+    "MUPF 245": null,
+    "MUPF 255": null,
+    "MUPF 256": null,
+    "MUPF 266": null,
+    "MUPF 283": null,
+    "MUPF 284": null,
+    "MUPF 285": null,
+    "MUPF 315": [
+        "MUPF 215"
+    ],
+    "MUPF 345": [
+        "MUPF 245"
+    ],
+    "MUPF 355": [
+        "MUPF 255"
+    ],
+    "MUPF 356": [
+        "MUPF 256"
+    ],
+    "MUPF 366": [
+        "MUPF 266"
+    ],
+    "MUPF 383": [
+        "MUPF 283"
+    ],
+    "MUPF 384": [
+        "MUPF 284"
+    ],
+    "MUPF 385": [
+        "MUPF 285"
+    ],
+    "MUPF 361": null,
+    "MUPF 362": [
+        "MUPF 361"
+    ],
+    "MUPF 363": [
+        "MUPF 361"
+    ],
+    "MUPF 365": [
+        "MUPF 361",
+        "MUPF 362",
+        "MUPF 363"
+    ],
+    "MUPF 127": null,
+    "MUPF 217": [],
+    "MUPF 227": [],
+    "MUPF 237": [],
+    "MUPF 317": [
+        "MUPF 217",
+        "MUPF 227"
+    ],
+    "MUPF 387": null,
+    "MUPF 427": [
+        "MUPF 227"
+    ],
+    "MUPF 437": [
+        "MUPF 237"
+    ],
+    "MUPF 487": null,
+    "NRSG 100": null,
+    "NRSG 210": [],
+    "NRSG 211": [
+        "BIOL 121",
+        "BIOL 122",
+        "BIOL 123",
+        "PSYC 130",
+        "HLTH 220",
+        "NRSG 210"
+    ],
+    "NRSG 211p": null,
+    "NRSG 212": [
+        "NRSG 211",
+        "CHEM 105"
+    ],
+    "NRSG 212p": [
+        "NRSG 211P"
+    ],
+    "NRSG 213": [
+        "NRSG 212",
+        "BIOL 222"
+    ],
+    "NRSG 213p": null,
+    "NRSG 233": null,
+    "NRSG 234": null,
+    "NRSG 235": null,
+    "NRSG 290": null,
+    "NRSG 291": null,
+    "NRSG 310": null,
+    "NRSG 321": [
+        "NRSG 213"
+    ],
+    "NRSG 327": [
+        "MATH 106",
+        "ENGL 223"
+    ],
+    "NRSG 331": [
+        "NRSG 213"
+    ],
+    "NRSG 344": [
+        "NRSG 213"
+    ],
+    "NRSG 354": [
+        "BIOL 121",
+        "BIOL 122",
+        "BIOL 123",
+        "BIOL 222",
+        "CHEM 105",
+        "NRSG 213"
+    ],
+    "NRSG 391": null,
+    "NRSG 421": [
+        "NRSG 321",
+        "NRSG 327",
+        "NRSG 331",
+        "NRSG 344",
+        "NRSG 354"
+    ],
+    "NRSG 431": [
+        "NRSG 321",
+        "NRSG 327",
+        "NRSG 331",
+        "NRSG 344",
+        "NRSG 354"
+    ],
+    "NRSG 433": null,
+    "NRSG 435": null,
+    "NRSG 437": [
+        "NRSG 321",
+        "NRSG 327",
+        "NRSG 331",
+        "NRSG 344",
+        "NRSG 354"
+    ],
+    "NRSG 441": [
+        "NRSG 321",
+        "NRSG 331",
+        "NRSG 344",
+        "NRSG 354"
+    ],
+    "NRSG 445": null,
+    "NRSG 450": null,
+    "NRSG 475": null,
+    "NRSG 490": [],
+    "NRSG 494": [
+        "NRSG 213"
+    ],
+    "PETH 107": null,
+    "PETH 145": null,
+    "PETH 205": null,
+    "PETH 214": null,
+    "PETH 225": null,
+    "PETH 253": null,
+    "PETH 254": null,
+    "PETH 261": null,
+    "PETH 324": null,
+    "PETH 325": null,
+    "PETH 350": null,
+    "PETH 353": null,
+    "PETH 366": null,
+    "PETH 396": null,
+    "PETH 425": [
+        "MATH 106"
+    ],
+    "PETH 426": [
+        "BIOL 121",
+        "BIOL 122",
+        "BIOL 123",
+        "BIOL 141",
+        "BIOL 142",
+        "BIOL 143"
+    ],
+    "PETH 427": [
+        "BIOL 121",
+        "BIOL 122",
+        "BIOL 123",
+        "PETH 426"
+    ],
+    "PETH 479": null,
+    "PETH 484": null,
+    "PETH 490": [],
+    "PETH 493": null,
+    "PETH 495": null,
+    "PETH 496": [],
+    "PHIL 204": [
+        "ENGL 121",
+        "ENGL 122"
+    ],
+    "PHIL 205": null,
+    "PHIL 270": null,
+    "PHIL 305": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 310": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "HIST 315": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 407": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 410": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 411": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 412": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 461": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHIL 496": [
+        "PHIL 204",
+        "PHIL 205"
+    ],
+    "PHTO 156": null,
+    "PHTO 255": null,
+    "PHTO 256": [
+        "PHTO 156"
+    ],
+    "PHTO 355": [
+        "PHTO 255"
+    ],
+    "PHTO 356": [
+        "PHTO 156",
+        "GRPH 136"
+    ],
+    "PHTO 358": [
+        "PHTO 156"
+    ],
+    "PHTO 456": null,
+    "PHYS 201": null,
+    "PHYS 202": null,
+    "PHYS 204": null,
+    "PHYS 205": null,
+    "PHYS 211": [
+        "MATH 121",
+        "MATH 122"
+    ],
+    "PHYS 212": [
+        "MATH 121",
+        "MATH 122"
+    ],
+    "PHYS 213": [
+        "MATH 121",
+        "MATH 122"
+    ],
+    "PHYS 214": null,
+    "PHYS 215": null,
+    "PHYS 216": null,
+    "PHYS 251": [
+        "MATH 172"
+    ],
+    "PHYS 252": null,
+    "PHYS 253": null,
+    "PHYS 254": null,
+    "PHYS 255": null,
+    "PHYS 256": null,
+    "PHYS 307": [
+        "PHYS 253"
+    ],
+    "PHYS 310": null,
+    "PHYS 311": [
+        "PHYS 310"
+    ],
+    "PHYS 312": null,
+    "PHYS 313": null,
+    "PHYS 314": null,
+    "PHYS 315": null,
+    "PHYS 316": null,
+    "PHYS 323": null,
+    "PHYS 324": null,
+    "PHYS 331": null,
+    "PHYS 332": null,
+    "PHYS 340": null,
+    "PHYS 401": null,
+    "PHYS 402": null,
+    "PHYS 414": null,
+    "PHYS 415": null,
+    "PHYS 419": null,
+    "PHYS 420": null,
+    "PHYS 421": null,
+    "PHYS 422": null,
+    "PHYS 423": null,
+    "PHYS 435": null,
+    "PHYS 470": [
+        "BIOL 143",
+        "PHYS 213",
+        "PHYS 253",
+        "MATH 171"
+    ],
+    "PHYS 479": null,
+    "PLSC 224": null,
+    "PRDN 120": [
+        "TECH 220"
+    ],
+    "PRDN 130": [
+        "DSGN 121"
+    ],
+    "PRDN 210": [
+        "DSGN 111"
+    ],
+    "PRDN 230": [
+        "PRDN 130"
+    ],
+    "PRDN 266": [
+        "GRPH 124"
+    ],
+    "PRDN 310": [
+        "DSGN 111"
+    ],
+    "PRDN 330": [
+        "PRDN 230"
+    ],
+    "DSGN 345": [
+        "PRDN 210"
+    ],
+    "PRDN 410": [
+        "DSGN 111"
+    ],
+    "PRDN 411": [
+        "PRDN 210",
+        "PRDN 310",
+        "PRDN 410"
+    ],
+    "PRDN 490": [],
+    "PREL 333": null,
+    "PREL 337": null,
+    "PREL 349": null,
+    "PREL 350": [
+        "JOUR 245"
+    ],
+    "PREL 451": [
+        "GRPH 124"
+    ],
+    "PREL 481": null,
+    "PSYC 120": null,
+    "PSYC 130": null,
+    "PSYC 140": null,
+    "PSYC 141": null,
+    "PSYC 215": null,
+    "PSYC 217": null,
+    "PSYC 225": null,
+    "PSYC 247": null,
+    "PSYC 266": [
+        "PSYC 130",
+        "PSYC 140",
+        "PSYC 141"
+    ],
+    "PSYC 271": [
+        "PSYC 140"
+    ],
+    "PSYC 272": [
+        "PSYC 271"
+    ],
+    "PSYC 278": null,
+    "PSYC 344": [
+        "PSYC 130",
+        "PSYC 140",
+        "PSYC 141"
+    ],
+    "PSYC 350": [
+        "PSYC 215"
+    ],
+    "PSYC 366": [
+        "PSYC 272"
+    ],
+    "PSYC 370": null,
+    "PSYC 373": null,
+    "PSYC 380": [
+        "PSYC 272"
+    ],
+    "PSYC 390": [
+        "PSYC 272"
+    ],
+    "PSYC 425": [
+        "PSYC 272"
+    ],
+    "PSYC 430": [
+        "PSYC 272"
+    ],
+    "PSYC 434": [
+        "PSYC 272"
+    ],
+    "PSYC 437": null,
+    "PSYC 444": null,
+    "PSYC 447": [
+        "PSYC 247",
+        "PSYC 272"
+    ],
+    "PSYC 455": [
+        "PSYC 130",
+        "PSYC 140",
+        "PSYC 141"
+    ],
+    "PSYC 464": [
+        "PSYC 272"
+    ],
+    "PSYC 466": [
+        "BIOL 121",
+        "BIOL 141",
+        "PSYC 272"
+    ],
+    "PSYC 478": [
+        "PSYC 272"
+    ],
+    "PSYC 492": [
+        "PSYC 272"
+    ],
+    "PSYC 493": [],
+    "PSYC 495": null,
+    "PSYC 496": [],
+    "PSYC 498": [
+        "PSYC 493"
+    ],
+    "PSYC 499": [
+        "PSYC 272"
+    ],
+    "RELB 104": null,
+    "RELB 105": null,
+    "RELB 106": null,
+    "RELB 111": null,
+    "RELB 200": null,
+    "RELB 231": null,
+    "RELB 274": null,
+    "RELB 302": null,
+    "RELB 303": null,
+    "RELB 304": null,
+    "RELB 406": null,
+    "RELB 307": null,
+    "RELB 312": null,
+    "RELB 313": null,
+    "RELB 333": null,
+    "RELB 437": null,
+    "RELB 439": null,
+    "RELB 340": null,
+    "RELB 345": null,
+    "RELB 454": [
+        "ENGL 234"
+    ],
+    "RELB 462": null,
+    "RELB 382p": null,
+    "RELB 400": null,
+    "RELB 410": null,
+    "RELB 421": [],
+    "RELB 474": null,
+    "RELB 496": null,
+    "RELH 205": null,
+    "RELH 303": null,
+    "RELH 425": null,
+    "RELH 455": [],
+    "RELH 457": null,
+    "RELH 490": [
+        "RELH 205"
+    ],
+    "RELM 233": null,
+    "RELP 131": null,
+    "RELP 236": [
+        "RELP 131"
+    ],
+    "RELP 270": null,
+    "RELP 281": [
+        "SPCH 101"
+    ],
+    "RELP 336": [
+        "RELP 131"
+    ],
+    "RELP 382": null,
+    "RELP 385": null,
+    "RELP 400": null,
+    "RELP 482": [
+        "RELP 131"
+    ],
+    "RELP 492": null,
+    "RELP 493": [
+        "RELP 492"
+    ],
+    "RELT 110": null,
+    "RELT 202": null,
+    "RELT 326": [],
+    "RELT 340": null,
+    "RELT 342": null,
+    "RELT 342p": null,
+    "RELT 348": null,
+    "RELT 352": null,
+    "RELT 402": null,
+    "RELT 408": null,
+    "RELT 412": null,
+    "RELT 417": null,
+    "RELT 456": null,
+    "RELT 457": null,
+    "RELT 466": null,
+    "RELT 495": null,
+    "SCDI 441": [],
+    "SCDI 442": [
+        "SCDI 441"
+    ],
+    "SERV 291": null,
+    "SERV 305": null,
+    "SERV 392": [
+        "SERV 291"
+    ],
+    "SERV 493": [
+        "SERV 392"
+    ],
+    "SMTF 100": null,
+    "SOCI 204": null,
+    "SOCI 225": null,
+    "SOCI 234": [
+        "SOCI 204"
+    ],
+    "SOCI 236": [
+        "SOCI 204",
+        "ANTH 225"
+    ],
+    "SOCI 394": null,
+    "SOCI 420": [
+        "SOCI 204",
+        "ANTH 225"
+    ],
+    "SOCI 437": null,
+    "SOCI 438": [
+        "SOCI 204"
+    ],
+    "SOCI 451": null,
+    "SOCI 452": [
+        "SOCI 451"
+    ],
+    "SOCI 455": [
+        "SOCI 204"
+    ],
+    "SOCI 490": null,
+    "SOCI 491": [
+        "SOCI 451"
+    ],
+    "SOCI 327": [
+        "SOCI 204",
+        "ANTH 225"
+    ],
+    "SOWK 205": null,
+    "SOWK 260": null,
+    "SOWK 261": null,
+    "SOWK 264": null,
+    "SOWK 266": [
+        "SOWK 264",
+        "SOCI 204"
+    ],
+    "SOWK 305": [
+        "SOWK 205"
+    ],
+    "SOWK 477": null,
+    "SOWK 371": [
+        "SOCI 204",
+        "SOWK 264"
+    ],
+    "SOWK 372": [
+        "SOWK 371"
+    ],
+    "SOWK 373": [
+        "SOWK 371"
+    ],
+    "SOWK 375": [
+        "SOWK 266"
+    ],
+    "SOWK 383": null,
+    "SOWK 384": null,
+    "SOWK 394": null,
+    "SOWK 437": null,
+    "SOWK 460": [
+        "SOCI 204"
+    ],
+    "SOWK 465": [
+        "SOWK 371",
+        "SOWK 375"
+    ],
+    "SOWK 466": [
+        "SOWK 371"
+    ],
+    "SOWK 471": [
+        "SOCI 204"
+    ],
+    "SOWK 479": [
+        "SOWK 264",
+        "SOWK 371",
+        "SOWK 264",
+        "SOWK 266"
+    ],
+    "SOWK 490": [
+        "SOWK 266",
+        "SOWK 371",
+        "SOWK 372",
+        "SOWK 373"
+    ],
+    "SOWK 491": [
+        "SOWK 490"
+    ],
+    "SPAN 101": null,
+    "SPAN 102": [
+        "SPAN 101"
+    ],
+    "SPAN 103": [
+        "SPAN 102"
+    ],
+    "SPAN 201": [
+        "SPAN 103"
+    ],
+    "SPAN 202": [
+        "SPAN 201"
+    ],
+    "SPAN 203": [
+        "SPAN 202"
+    ],
+    "SPCH 101": null,
+    "SPCH 207": null,
+    "SPCH 210": null,
+    "SPCH 211": null,
+    "SPCH 310": null,
+    "SPCH 341": [
+        "SPCH 101"
+    ],
+    "SPCH 394": null,
+    "SPCH 395": null,
+    "SPCH 407": null,
+    "SPCH 443": [
+        "SPCH 101"
+    ],
+    "SPCH 453": [
+        "SPCH 101"
+    ],
+    "SPCH 483": [],
+    "SPED 210": [
+        "EDUC 211"
+    ],
+    "SPED 212": [
+        "SPED 210"
+    ],
+    "SPED 213": [
+        "SPED 210"
+    ],
+    "SPED 214": [
+        "SPED 210"
+    ],
+    "SPED 322": [
+        "SPED 210"
+    ],
+    "SPED 324": [
+        "SPED 210"
+    ],
+    "SPED 330": [
+        "SPED 210"
+    ],
+    "SPED 436": [
+        "SPED 210",
+        "SPED 330"
+    ],
+    "SPED 437": [
+        "SPED 210",
+        "SPED 330"
+    ],
+    "SPED 438": [
+        "SPED 210"
+    ],
+    "SPED 440": [
+        "SPED 210",
+        "SPED 322"
+    ],
+    "SPPA 210": null,
+    "SPPA 250": null,
+    "TECH 137": null,
+    "TECH 138": null,
+    "TECH 139": [
+        "TECH 137",
+        "TECH 138"
+    ],
+    "TECH 220": null,
+    "TECH 223": [
+        "TECH 220"
+    ],
+    "TECH 224": [
+        "TECH 223"
+    ],
+    "TECH 235": [
+        "DSGN 121"
+    ],
+    "TECH 236": [
+        "DSGN 121"
+    ],
+    "TECH 241": null,
+    "TECH 242": null,
+    "TECH 280": null,
+    "TECH 321": [
+        "ENGL 223"
+    ],
+    "TECH 335": [
+        "DSGN 121"
+    ],
+    "TECH 343": [],
+    "TECH 380": null,
+    "TECH 398": [],
+    "TECH 428": null,
+    "TECH 480": [],
+    "TECH 494": [],
+    "TECH 499": null,
+    "WRIT 324": null,
+    "WRIT 333": [
+        "ENGL 234",
+        "HONR 243"
+    ],
+    "WRIT 334": null,
+    "WRIT 337": [
+        "ENGL 234",
+        "HONR 243"
+    ],
+    "WRIT 389": null,
+    "WRIT 496": null,
+    "WRIT 497": null,
+    "WRIT 498": null
+}
